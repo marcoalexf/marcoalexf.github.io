@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Journey starts"
 date:   2023-09-16 19:08:40 +0100
-categories: jekyll update
+categories: cybersecurity start software journey resources
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Today I started the journey on Cyber Security. To be more precise, on Threat Hunting.
+I've got a few resources to check:
+- https://medium.com/@zendannyy/cybersecurity-career-paths-threat-intelligence-threat-hunting-8aab940b3fbf
+- https://www.youtube.com/watch?v=Wgj0Fdqxw54&ab_channel=ActiveCountermeasures
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Especially interested in malware analysis, but lets focus on some basics before. Previous experience (~5 years) as a Software Developer/Engineer will quickstart the process.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Totally new so will post some updates along the way.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+-m
